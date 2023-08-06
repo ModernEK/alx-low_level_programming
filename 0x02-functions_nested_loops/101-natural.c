@@ -1,5 +1,7 @@
 /*
 	 * File: 101-natural.c
+	 *  main - Lists all the natural numbers below 1024 (excluded)
+	 *        that are multiples of 3 or 5.
 	 * Auth: vincent kip
 	 * Description: Lists all the natural numbers below 1024 (excluded)
 	 *        that are multiples of 3 or 5.
