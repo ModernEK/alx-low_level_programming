@@ -5,7 +5,7 @@
  * main - fibonacci <3
  *
  * Purpose - no hardcode
- * Description:no hardcode
+ *
  * Return:  (Success)
  */
 
